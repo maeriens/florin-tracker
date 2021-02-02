@@ -1,4 +1,4 @@
-export default [
+const intermediate = [
   {
     url: 'bitmasks',
     title: 'Bit Masks',
@@ -34,3 +34,5 @@ export default [
     ]
   }
 ]
+
+export default intermediate;

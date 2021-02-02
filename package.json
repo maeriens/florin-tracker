@@ -1,5 +1,9 @@
 {
   "name": "florin-tracker",
+  "author": {
+    "name": "maeriens"
+  },
+  "license": "GPL-3.0",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -24,6 +28,10 @@
       "react-app",
       "react-app/jest"
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maeriens/florin-tracker.git"
   },
   "browserslist": {
     "production": [

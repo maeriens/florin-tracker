@@ -1,4 +1,4 @@
-export default [
+const advanced = [
   {
     url:'battleshipbot',
     title: 'Battleship Bot',
@@ -15,4 +15,6 @@ export default [
       { text: "User can see a card containing a graphical representation of the hits and misses rather than a simple 2D table of characters", completed: false }
     ]
   }
-]
+];
+
+export default advanced;

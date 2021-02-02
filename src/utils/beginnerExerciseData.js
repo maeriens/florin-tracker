@@ -1,4 +1,4 @@
-export default [
+const beginner = [
   {
     url: 'bin2dec',
     title: 'Bin2Dec',
@@ -547,3 +547,5 @@ export default [
     ]
   }
 ]
+
+export default beginner;
